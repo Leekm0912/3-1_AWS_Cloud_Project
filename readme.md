@@ -2,7 +2,7 @@
 
 # 1. 구성도
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled.png)
 
 # 2. 구현
 
@@ -10,47 +10,47 @@
 
 # RDS
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%201.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%201.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%201.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%201.png)
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%202.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%202.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%202.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%202.png)
 
 ### ERD
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%203.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%203.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%203.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%203.png)
 
 # EC2
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%204.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%204.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%204.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%204.png)
 
 ### main화면
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%205.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%205.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%205.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%205.png)
 
 ### 로그인 창
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%206.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%206.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%206.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%206.png)
 
 로그인 후 메인화면
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%207.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%207.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%207.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%207.png)
 
 ### 매물보기
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%208.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%208.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%208.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%208.png)
 
 카카오 API 이용 지도 사용가능
 
 ### 매물구매
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%209.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%209.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%209.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%209.png)
 
 매수자가 매물을 구매신청하면 매도자에게 메일으로 알림이 보내짐.
 
 # SES
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%2010.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%2010.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%2010.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%2010.png)
 
-![%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%2011.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%204b5a89b6330f499e885a9e581b9090c7/Untitled%2011.png)
+![https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%2011.png](https://github.com/Leekm0912/3-1_AWS_Cloud_Project/blob/main/readme/Untitled%2011.png)
 
 # 3. 코드
 
